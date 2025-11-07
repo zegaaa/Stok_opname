@@ -6,7 +6,13 @@
     "expiresAt": "2026-12-31",
     "allowOffline": true
   },
-
+{
+        "id": "0fdd60de5743fb6d",
+        "username": "123456",
+        "password": "123456",
+        "expiresAt": "2026-11-30",
+    "allowOffline": true
+    },
 {
         "id": "5ebbc9aedc632de2",
         "username": "123456",
